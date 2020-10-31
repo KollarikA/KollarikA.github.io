@@ -1,0 +1,81 @@
+ul
+{
+    margin-top: 12px;
+    margin-right: 200px;
+}
+.navbar
+{
+    background-color: #333333;
+    overflow: hidden;
+    }
+
+.navbar li
+{
+    float: right;
+  display: block;
+  color: #fc079a;
+  text-align: center;
+  
+  padding-right: 30px;
+  text-decoration: none;
+
+}
+
+      
+.logo
+{
+    margin-top: 5px;
+    margin-left: 150px;
+    float: left;
+}
+     
+  
+body
+{
+    background-image: url(kep/topography.png)
+}
+    
+
+body
+{margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+    
+    @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+p
+{line-height: 1;
+        font-weight: 600;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+    
+h3
+{font-family: 'Bree Serif', serif;
+    font-size: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h1
+{   font-size: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 70px;
+}
+h2
+{padding-left: 10%;
+    padding-right: 10%;
+    font-size: 30px;
+}
+
+.alcim
+{text-align: center;
+    font-size: 35px;
+}
+  
+#position
+{   top: 0px;
+    position: fixed;
+    width: 1700px;
+}
